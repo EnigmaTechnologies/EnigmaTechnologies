@@ -1,0 +1,8 @@
+- 👋 Hi, I’m Brandon of @EnigmaTechnologies  
+- 👀 I’m interested in game development, web design, artificial inteligence, and more
+- 🌱 I’m currently learning front end development
+- 💞️ I’m looking to collaborate on various projects and opportunities
+- 📫 How to reach me:
+- Discord: WaterIzWet#9275
+- Phone: (626)-825-3297
+- Email: Brandon.CoxIT@gmail.com
